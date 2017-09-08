@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Peoject: Holiday Card</title>
+    </head>
+    <style>
+    h1 {
+        color: rgb(237, 19, 19);
+    }    
+    body {
+        background-color: rgb(34, 189, 86); 
+    }    
+        
+    </style>
+    <body>
+
+        <h1>My Christmas Holiday</h1>
+    <p>Went places, ate food,<br>plowed some snow. <br><img src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png" width="250">
+       
+    </p>    
+    </body>
+</html>
